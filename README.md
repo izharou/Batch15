@@ -1,4 +1,4 @@
-# Batch14
+# Batch15
  Muhamad Fauzi Hibatullah
 
 
@@ -14,6 +14,6 @@ https://es6console.com/
 https://rextester.com/l/php_online_compiler
 
 * Soal 6.a menggunakan Mysql
-Program Menggunakan Codeigniter jalankan menggunakan php interpreter (XAMPP, WAMPP)
+Program CRUDARKA Menggunakan Codeigniter jalankan menggunakan php interpreter (XAMPP, WAMPP)
 
 **Terimakasih**
